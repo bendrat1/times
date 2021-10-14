@@ -1,5 +1,5 @@
 import time 
-from IPython.display import clear_output 
+from Python.display import clear_output 
  
 def zero_to_infinity(): 
     i = 0 
